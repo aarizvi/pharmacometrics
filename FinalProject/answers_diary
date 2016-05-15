@@ -1,0 +1,58 @@
+Area Under Effect Curve
+   2.6809e+03
+
+Minimum Emax
+    88
+
+Minimum EC50
+    1.6000
+
+Minimum Ordinary Least Squares Objective Function
+   6.5072e+03
+
+Estimate Emax_lin
+   87.8285
+
+Estimate EC50_lin
+    1.5571
+
+Covariance matrix
+   88.5648    5.6278
+    5.6278    1.3883
+
+Correlation Matrix
+    7.9871    0.5075
+    0.5075    0.1252
+
+Correlation Matrix using built-in MATLAB function
+    1.0000    0.5075
+    0.5075    1.0000
+
+Standard Error for Emax
+    9.4109
+
+Standard Error for EC50
+    1.1783
+
+Emax %Coefficient of Variation
+   10.7151
+
+EC50 %Coefficient of Variation
+   75.6709
+
+95% Confidence Interval for Emax
+   67.3239  108.3330
+
+95% Confidence Interval for EC50
+   -1.0101    4.1243
+
+Least Ordinary Sum of Squares for Ehat
+   6.5065e+03
+
+R-squared of Eobs vs Ehat
+    0.8394
+
+AIC for Ehat
+  126.9279
+
+diary off
